@@ -34,3 +34,4 @@ Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=192126
 - https://ipam.org.br/wp-content/uploads/2007/11/três_estrategias.pdf
 
 ## > Minhas contribuições.
+- [Rodrigo Silva](https://github.com/Rodrigosilva028/Trab_dados/blob/main/README.md)
