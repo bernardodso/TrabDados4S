@@ -10,7 +10,7 @@
 - 4° Semestre de Economia e Administação.
 - Pelo "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa" (IDP)
 - Essa é a primeira parte, de 1/2, do trabalho final da diciplina.
-- Este trabalho visa analisar o desmatamento da Amazônia Legal ao longo dos anos, para o estudo utilizaremos como base os dados do INPE que realiza monitoramento por satélite a partir do PRODES. Agradeço a atenção!
+- Este trabalho visa analisar o aumento do desmatamento da Amazônia Legal ao longo dos anos, para o estudo utilizaremos como base os dados do INPE que realiza monitoramento por satélite a partir do PRODES. Agradeço a atenção!
 
 ## > Cama de Gato do Futuro.
 
