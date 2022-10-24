@@ -29,7 +29,7 @@ Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=192126
 - https://youtu.be/AAGcwnu98Mw
 
 ## > Fontes de dados.
-
+- Upload excel acima (ProdBasAbateDesmatamento.xlsx)
 - https://www.correiobraziliense.com.br/brasil/2022/09/5037497-desmatamento-na-amazonia-em-2022-e-o-maior-em-15-anos.html
 - https://ipam.org.br/wp-content/uploads/2007/11/três_estrategias.pdf
 
