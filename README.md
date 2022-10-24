@@ -9,7 +9,7 @@
 - Agradeço a atenção!
 
 ## > Cama de Gato do Futuro.
-Link para o [Miro]
+Link para o [miro]
 (https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=238010818841)
 ![image](https://user-images.githubusercontent.com/116168402/197538608-7479f4ba-0ecc-4288-87e7-fc07d3110fd9.png)
 
