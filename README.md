@@ -35,3 +35,4 @@ Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=192126
 
 ## > Minhas contribuições.
 - [Rodrigo Silva](https://github.com/Rodrigosilva028/Trab_dados/blob/main/README.md)
+- [Willian Pinheiro](https://github.com/WillPin/TrabFinalDados)
