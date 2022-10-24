@@ -1,7 +1,8 @@
 # > "Aumento do desmatamento da Amazônia Legal"
 
-Aluno: Bernardo Dias
-RA: 2111090
+- Aluno: Bernardo Dias
+
+- RA: 2111090
 
 ## > Introdução.
 
