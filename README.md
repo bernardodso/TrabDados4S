@@ -26,7 +26,7 @@ Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=238010
 Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=192126882017)
 
 ## > Video clipe.
--
+- https://youtu.be/AAGcwnu98Mw
 
 ## > Fontes de dados.
 
