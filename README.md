@@ -29,7 +29,8 @@ Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=192126
 -
 
 ## > Fontes de dados.
-
-https://github.com/GustavoDuregger/AnaliseDesmatamentoAmazonia
+https://www.correiobraziliense.com.br/brasil/2022/09/5037497-desmatamento-na-amazonia-em-2022-e-o-maior-em-15-anos.html
+https://github.com/GustavoDuregger/AnaliseDesmatamentoAmazonia/blob/master/analiseDesmatamento.ipynb
+https://ipam.org.br/wp-content/uploads/2007/11/três_estrategias.pdf
 
 ## > Minhas contribuições.
