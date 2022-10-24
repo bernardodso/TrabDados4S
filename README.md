@@ -20,7 +20,10 @@ Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=238010
 
 
 ## > Business Model Canvas.
--
+
+![image](https://user-images.githubusercontent.com/116168402/197620473-7b973008-621b-4a0a-ac45-601eb51d6cec.png)
+
+Link para o [miro](https://miro.com/app/board/uXjVPKwX9-g=/?share_link_id=192126882017)
 
 ## > Video clipe.
 -
